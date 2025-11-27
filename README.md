@@ -24,7 +24,7 @@
 
 </div>
 
- **<h3 align="center">Skills</h3>**
+ **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"><img src="https://skillicons.dev/icons?i=javascript" height="44" alt="JavaScript" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=typescript" height="44" alt="TypeScript" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=python" height="44" alt="Python" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=c" height="44" alt="C" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=cpp" height="44" alt="C++" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=nextjs" height="44" alt="Nextjs" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=react" height="44" alt="React" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=vite" height="44" alt="Vite" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=express" height="44" alt="Express" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="Node.js" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=fastapi" height="44" alt="FastAPI" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="MongoDB" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=sqlite" height="44" alt="SQLite" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="MySQL" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=firebase" height="44" alt="Firebase" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=flutter" height="44" alt="Flutter" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=docker" height="44" alt="Docker" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=kubernetes" height="44" alt="Kubernetes" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VSCode" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=postman" height="44" alt="Postman" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=supabase" height="44" alt="Supabase" style="margin-right: 8px"></div>
 
@@ -57,6 +57,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </p>
+
 
 
 
