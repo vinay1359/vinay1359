@@ -35,20 +35,25 @@
 
 **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinay1359&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay1359&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinay1359&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=vinay1359&theme=neon-palenight&hide_border=true&card_width=705">
+     </td>
+   </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinay1359&theme=2077">
+     </td>
+   </tr>
+</table><table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinay1359&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinay1359&theme=aura_dark"></td>
+  </tr>
+</table>
 
 <div align="center" style="border-radius: 12px; padding: 15px; background-color: #1a1b27; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-  <a href="https://wakatime.com/@vinay_21" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinay_21&layout=compact&theme=radical" alt="Vinay's WakaTime Stats" />
-  </a>
   <br><br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@vinay_21/27ead518-9c56-4138-ac79-bebf54312b88.png" /></a>
 </div>
@@ -60,6 +65,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </p>
+
 
 
 
