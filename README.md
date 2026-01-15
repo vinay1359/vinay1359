@@ -15,10 +15,11 @@
 
 **<h3 align="left">About me</h3>**
 
-- I Build full-stack applications with MERN stack or Next.js
-- Currently learning DevOps and Data Structures & Algorithms
-- Interested in machine learning, neural networks
-- Looking for people to grow with, so feel free to connect
+I build full-stack web applications using the MERN stack and Next.js, with a strong focus on clean architecture and scalable design. Alongside development, I’m actively learning DevOps and sharpening my problem solving skills through Data Structures & Algorithms.
+
+I have a growing interest in machine learning and neural networks, and I enjoy exploring how intelligent systems can be integrated into real-world applications. I like understanding not just how things work, but why they work.
+
+Always open to collaborating, learning, and growing with like minded people feel free to connect.
 
 </div>
 
@@ -47,11 +48,6 @@
   </tr>
 </table>
 
-<div align="center" style="border-radius: 12px; padding: 15px; background-color: #1a1b27; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-  <br><br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@vinay_21/27ead518-9c56-4138-ac79-bebf54312b88.png" /></a>
-</div>
-
 
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://www.linkedin.com/in/bvinay21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:vinay1359b@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a>
@@ -59,6 +55,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </p>
+
 
 
 
