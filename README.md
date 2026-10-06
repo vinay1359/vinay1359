@@ -48,6 +48,10 @@ Always open to collaborating, learning, and growing with like minded people feel
   </tr>
 </table>
 
+**<h3 align="left">ASCII Contribution City</h3>**
+
+![ASCII Contribution City](https://raw.githubusercontent.com/vinay1359/vinay1359/output/skyline.svg)
+
 
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://www.linkedin.com/in/bvinay21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:vinay1359b@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a>
