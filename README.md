@@ -48,7 +48,7 @@ Always open to collaborating, learning, and growing with like minded people feel
   </tr>
 </table>
 
-**<h3 align="left">ASCII Contribution City</h3>**
+**<h3 align="left"> Contribution </h3>**
 
 ![ASCII Contribution City](https://raw.githubusercontent.com/vinay1359/vinay1359/output/skyline.svg)
 
