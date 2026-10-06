@@ -2,11 +2,9 @@
 
 <div id="toc">
   <ul align="center" style="list-style: none">
-    <summary>
       <h1>
         👋 Hi, I'm Vinay
       </h1>
-    </summary>
   </ul>
 </div>
 
